@@ -1,2 +1,2 @@
 # vados-checkbox
-checbox switch css
+checkbox switch css
